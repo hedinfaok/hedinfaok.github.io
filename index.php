@@ -22,8 +22,9 @@ a img{border: solid black 2px;}
 <div id="container">
 <img src="./index.jpg" />
 <br />
-<a href='http://images.google.com/images?q=Robert%20Eden'>Vanity</a>
-<a href="http://robeden.blogspot.com">................... silly stuff</a>
+<a href="http://www.ietf.org/rfc/rfc3092.txt">Why Programmers Use Foo</a> ...
+<a href='http://images.google.com/images?q=Robert%20Eden'>Vanity</a> ...
+<a href="http://robeden.blogspot.com">silly stuff</a>
 <br /><br />
 <a href='https://plus.google.com/100146946538523001725/'>Google+</a>&nbsp;&nbsp;&nbsp;<a href='https://www.facebook.com/hedinfaok'>Facebook</a>
 <br /><br />
