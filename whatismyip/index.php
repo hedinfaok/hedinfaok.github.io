@@ -16,4 +16,6 @@ if (array_key_exists($http_header, $_SERVER)) {
 	$ipAddress = $_SERVER['REMOTE_ADDR'];
 }
 
+print $ipAddress;
+
 ?>
