@@ -18,4 +18,6 @@ if (array_key_exists($http_header, $_SERVER)) {
 
 print $ipAddress;
 
+phpinfo();
+
 ?>
