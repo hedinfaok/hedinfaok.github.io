@@ -1,1 +1,1 @@
-print $_SERVER['REMOTE_ADDR'];
+<?php print $_SERVER['REMOTE_ADDR']; ?>
