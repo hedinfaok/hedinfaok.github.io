@@ -10,7 +10,7 @@ $PHPized_header = 'HTTP_X_FORWARDED_FOR';
 $ipAddress = '';
 if (array_key_exists($http_header, $_SERVER)) {
 	$values = explode(',', $_SERVER[$PHPized_header]);
-	$ipAddress = array_reverse($values);
+	//$ipAddress = array_reverse($values);
     $ipAddress = array_pop($values);
 } else {
 	$ipAddress = $_SERVER['REMOTE_ADDR'];
